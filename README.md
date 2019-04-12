@@ -3,8 +3,8 @@
 QTG-Finder is a novel machine-learning pipeline to prioritize causal genes for QTLs identified by linkage mapping. We trained QTG-Finder models for Arabidopsis and rice based on the known causal genes from each species, respectively. By utilizing additional information like poly-morphisms, function annotation, co-function network, and paralog copy number, the models can rank QTL genes to prioritize causal genes.
 
 
-Authors: Fan Lin, March 2018
-         Jue Fan, March 2018
+Authors: Fan Lin, March 2019
+         Jue Fan, March 2019
 
 ### For prediction
 The source code and input files can be found in the <mark>'prediction'</mark> folder. Running the 'QTG_Finder_predict.py' will require a QTL gene list provided by the user.
